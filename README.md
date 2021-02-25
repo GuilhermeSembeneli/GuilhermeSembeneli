@@ -1,4 +1,4 @@
-### Olá, sou Guilherme mais conhecido como Sembz! 👋
+### Hi, I'am Guilherme better known as Sembz! 👋
 
 
 
