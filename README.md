@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on ScDev...
+
 - 💬 Ask me about Javascript or React any related stuff...
-- 📫 [Discord - Sembenevi#8418](https://discord.gg/jbKceKmrSW)
+- 📫 [Discord - Sembenevi#8418](https://discord.com)
 ## 💻 Languagues and Tools 💻
 - Javascript, Typescript, React, Node.js, MongoDB, MySQL, Lua, Html, CSS
 
