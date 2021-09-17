@@ -11,3 +11,12 @@
 ## Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=sembenevi&theme=dark&tshow_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sembenevi&theme=dark&layout=compact">
+
+<p align="center" style="display: none;"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Sembenevi/count.svg" />
+ </p>
+
+</p>
