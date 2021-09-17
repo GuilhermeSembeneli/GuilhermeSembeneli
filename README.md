@@ -15,7 +15,7 @@
 <p align="center" style="display: none;"> 
 
  ## Total de Visitas no perfil :detective: <br>
- <p align="center" style="display: none;" display="none"> 
+ <p align="center" hidden> 
    <img alingn="center" src="https://profile-counter.glitch.me/Sembenevi/count.svg" />
  </p>
 
